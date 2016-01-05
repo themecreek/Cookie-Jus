@@ -2,4 +2,4 @@
 
 Jus is Latin for law so the repo is called Cookie Law. I thought it a better name then the tons of other names in use right now for this type of plugin. 
 
-This is a plugin that will help fill in the requirement by the EU to let your users known about the usage of your cookies on site. 
+This is a plugin that will help fill in the requirement by the EU to let your users known about the usage of your cookies on site. While many apps/plugins for this exist, this one is made specifcally for Eager.io. 
